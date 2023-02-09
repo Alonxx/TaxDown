@@ -27,7 +27,7 @@ Save on your income statement
 
 ### Run Test 🔎
 
-- run `npm run jest` - `yarn run jest` to run on Tests
+- run `npm run jest` - `yarn run jest` to run Tests
 
 ### Technologies used 🔥
 
