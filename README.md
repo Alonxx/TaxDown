@@ -25,7 +25,7 @@ Save on your income statement
 
 - run `npm run android` - `yarn run android` or -`npm run ios` - `yarn run ios` to run on device or emulator
 
-### Run Test
+### Run Test 🔎
 
 - run `npm run jest` - `yarn run jest` to run on Tests
 
