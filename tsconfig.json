@@ -1,0 +1,18 @@
+// prettier-ignore
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  
+  "compilerOptions": {
+    
+    "types": [
+      "@types/styled-components-react-native",
+      "jest"
+    ],
+    "skipLibCheck": true,
+    "baseUrl": "./src"
+  },
+  "include": [
+    "src",
+    "*.d.ts"
+  ]
+}
